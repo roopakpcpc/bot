@@ -30,3 +30,5 @@ while True:
   print(f'updatinf twitter name:  RPC|{follower_count(user)} followers')
   print("waiting to refresh")
   time.sleep(60)
+
+  
